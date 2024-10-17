@@ -1,7 +1,8 @@
 # My Artificial Intelligence and Data Science Journey
 
-This repository is heavily based on tutorials. I uploaded these files to serve as lecture notes that I can reference in the future.
-
+This repository is heavily based on tutorials. 
+I uploaded these files to serve as lecture notes that I can reference in the future 
+and to showcase my work and progress in the field of artificial intelligence, data science and computer vision.
 ---
 
 ## Table of Contents
