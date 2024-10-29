@@ -1,0 +1,3 @@
+bvlc_googlenet.caffemodel
+classification_classes_ILSVRC2012.txt
+deploy.prototxt
