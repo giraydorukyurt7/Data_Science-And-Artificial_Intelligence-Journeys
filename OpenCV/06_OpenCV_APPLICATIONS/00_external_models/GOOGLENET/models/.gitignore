@@ -1,3 +1,8 @@
+# GOOGLENET model dosyalarını dışarıda tut
 bvlc_googlenet.caffemodel
 classification_classes_ILSVRC2012.txt
 deploy.prototxt
+
+# SSD model dosyalarını dışarıda tut
+SSD/MobileNetSSD_deploy.caffemodel
+SSD/MobileNetSSD_deploy.prototxt
