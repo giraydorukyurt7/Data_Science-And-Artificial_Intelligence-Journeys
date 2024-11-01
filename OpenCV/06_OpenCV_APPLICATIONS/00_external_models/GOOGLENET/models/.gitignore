@@ -6,3 +6,7 @@ deploy.prototxt
 # SSD model dosyalarını dışarıda tut
 SSD/MobileNetSSD_deploy.caffemodel
 SSD/MobileNetSSD_deploy.prototxt
+
+# Face Detection dosyalarını dışarıda tut
+Face_Detection/res10_300x300_ssd_iter_140000_fp16.caffemodel
+Face_Detection/deploy.prototxt
