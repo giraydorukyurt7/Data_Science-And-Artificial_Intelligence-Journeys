@@ -88,3 +88,19 @@ and to showcase my work and progress in the field of artificial intelligence, da
   - Histograms  
   - Blurring and Filtering Algorithms  
   - Edge, Line, and Circle Detection Algorithms
+
+  ### 6. Natural Language Processing
+- **1. Text Preprocessing**
+  - Normalizing Case Folding
+- **2. Text Visualization**
+  - Barplot
+  - WordCloud
+- **3. Sentiment Analysis**
+  - Calculating Polarity Scores
+- **4. Feature Engineering**
+  - Count Vectors
+  - TF-IDF
+- **5. Sentiment Modeling**
+  - Application: Sentiment Analyzis
+  - - Model Selection: Logistic Regression
+  - - Model Selection: Random Forests
