@@ -73,22 +73,55 @@ and to showcase my work and progress in the field of artificial intelligence, da
   - Application: LSTM - Tesla Stock Forecast
 
 ### 5. Computer Vision (OpenCV)
-- **Basic Operations**
-- **Performance Measurement**  
+- **1-Basic Operations**
+  - Load Image
+  - Gray Image
+  - Create Image
+  - Pixel Read And Write
+  - Image Flip
+  - Draw Geometry
+  - Basic Thresholding
+- **2-Performance Measurement**  
   - Pixel Value Statistics  
   - Pixel Normalization
-- **Video Read and Write**  
-  - Basic Operations  
-  - Background-Foreground Analysis  
-  - Optical Flow
-- **Image Processing**  
-  - Changing Colorspaces  
-  - Geometric Transformations  
-  - Region of Interest (ROI) in Images  
-  - Histograms  
-  - Blurring and Filtering Algorithms  
-  - Edge, Line, and Circle Detection Algorithms
-
+- **3-Video Read and Write**  
+  - Video Read And Write (from a file)
+  - Video Read, Write And Process (by using built-in camera)
+  - Background-Foreground Extraction
+  - ROI Extraction Of The Foreground
+  - Lucas-Kanade Optical Flow
+  - Farneback (Dense) Optical Flow
+- **4-Image Processing**  
+  - Changing Colorspaces
+  - Geometric Transformations
+  - Region of Interest (ROI) in Images
+  - Histogram
+  - Histogram Equalization
+  - Histogram Comparison
+  - Gaussian Bilateral Blur  
+  - Fast Image Edge Filtering
+  - Sobel Operator (Edge Detection)
+  - Canny Edge Detection
+  - Otsu Thresholding
+  - Image Contours
+  - Hoffman Line Detection
+  - Probability Hoffman Line Detection
+  - Grabcut Image Segmentation
+  - Grabcut Background Change
+- **5-Attribute Recognition**
+  - Image Noise
+  - Image Sharpening
+  - Corner Detection - Harris
+  - Corner Detection - Shi Thomas
+  - Corner Detection - Sub Pixel
+  - Hog Pedestrian Detection
+  - Template Matching
+- **6-Applications**
+  - QRCode Detection
+  - Application: DNN - Image Classification
+  - Application: DNN with SSD Model - Single Class Image Classification
+  - Application: DNN with SSD Model - Real-Time Object Recognition
+  - Application: DNN - Video Face Detection Based On Residual Network
   ### 6. Natural Language Processing
 - **1. Text Preprocessing**
   - Normalizing Case Folding
@@ -102,5 +135,5 @@ and to showcase my work and progress in the field of artificial intelligence, da
   - TF-IDF
 - **5. Sentiment Modeling**
   - Application: Sentiment Analyzis
-  - - Model Selection: Logistic Regression
-  - - Model Selection: Random Forests
+    - Model Selection: Logistic Regression
+    - Model Selection: Random Forests
